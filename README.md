@@ -97,6 +97,3 @@ data class Delta(
     val deaths: Int? = null
 )
 ```
-
-## Screenshots
-*(Include relevant screenshots of the application UI here)*
